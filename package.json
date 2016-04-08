@@ -1,0 +1,15 @@
+{
+  "name": "socket-d3",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.13.4",
+    "http": "*",
+    "socket.io": "~0.9.16"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
