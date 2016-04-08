@@ -2,6 +2,6 @@
 Hellow World for Socket.io and D#
 
 1. clone repo
-2. Npm install
-3. Npm start
-4. Go to localhost:1337
+2. npm install
+3. npm start
+4. go to localhost:1337
